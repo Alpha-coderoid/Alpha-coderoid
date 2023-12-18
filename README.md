@@ -1,4 +1,8 @@
-### Hi there 👋
+مرحبا ايها العالم 👋🏻
+welcome to my github!
+
+i share here some of the project i currently work on in school.
+
 
 <!--
 **Alpha-coderoid/Alpha-coderoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
